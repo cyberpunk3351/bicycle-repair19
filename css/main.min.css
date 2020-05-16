@@ -509,6 +509,10 @@ nav.black ul {
     font-size: 30px;
   }
 
+  .tri-bloka .wrapper .containers .tri-bloka--box h2 {
+    font-size: 26px;
+  }
+
   .tri-bloka .wrapper .containers .tri-bloka--box .tri-bloka--bloks {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -582,6 +586,10 @@ nav.black ul {
 
   .slider .wrapper .containers .slider--box h1 {
     font-size: 40px;
+  }
+
+  .tri-bloka .wrapper .containers .tri-bloka--box h2 {
+    font-size: 26px;
   }
 
   .tri-bloka .wrapper .containers .tri-bloka--box .tri-bloka--bloks {
