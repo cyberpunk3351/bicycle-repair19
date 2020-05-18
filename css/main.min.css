@@ -584,6 +584,10 @@ nav.black ul {
     padding-top: 100px;
   }
 
+  .slider .wrapper .containers .slider--box a {
+    color: #eee;
+  }
+
   .slider .wrapper .containers .slider--box h1 {
     font-size: 40px;
   }
