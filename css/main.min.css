@@ -584,7 +584,7 @@ nav.black ul {
     padding-top: 100px;
   }
 
-  .slider .wrapper .containers .slider--box a {
+  .slider .wrapper .containers .slider--box a:link {
     color: #eee;
   }
 
