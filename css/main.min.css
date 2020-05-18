@@ -584,7 +584,8 @@ nav.black ul {
     padding-top: 100px;
   }
 
-  .slider .wrapper .containers .slider--box a:link {
+  .slider .wrapper .containers .slider--box a:link,
+  .slider .wrapper .containers .slider--box a:visited {
     color: #eee;
   }
 
